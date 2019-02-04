@@ -21,7 +21,7 @@ let myUndefined = undefined;
 
 const myObjet = {
     name : 'Toto'
-    car : {
+    Car : {
         color : "red"
     }
 }
