@@ -75,5 +75,5 @@ ctx.fill();
 ctx.strokeStyle ='#000';
 ctx.fillStyle = '#000';
 
-ctx.fillRect(154, 228, 241, 231);
-ctx.fillRect(154, 248, 243, 243);
+ ctx.fillRect(154, 228, 100, 30);
+// ctx.fillRect(154, 248, 243, 243);
