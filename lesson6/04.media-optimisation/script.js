@@ -2,7 +2,7 @@
 
 // NavBar
 $('#navbarDropdownMenuLink').click(() => {
-$('#navbarDropdownMenu').slideToggle();
+$('#navbarDropdownMenu').slideToggle(200);
 })
 
 //Date 
